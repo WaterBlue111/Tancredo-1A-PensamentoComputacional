@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(232, 232, 232);
+    
+}
+#slogan{
+        font-size: 25px;
+}
+.capa{
+    width: 50%;
+    height: 100%;
+}
